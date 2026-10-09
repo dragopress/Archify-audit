@@ -1,0 +1,7 @@
+{
+  "name": "Archify CodeAudit - Comprehensive GitHub Reviewer",
+  "description": "Comprehensive DevSecOps & AI repository reviewer: audits files for security vulnerabilities, architecture, features, misconfigurations, and provides actionable fixes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
